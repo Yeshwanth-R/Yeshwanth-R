@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Yeshwanth-R
 - 👀 I’m interested in Web-Dev
-- 🌱 I’m currently learning Full stack development  
+- 🌱 I am a Full stack developer
 
 <!---
 Yeshwanth-R/Yeshwanth-R is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
